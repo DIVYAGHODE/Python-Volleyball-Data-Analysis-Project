@@ -1,1 +1,2 @@
 # Python-Volleyball-Data-Analysis-Project
+This project analyzed volleyball player performance data to understand player skills, positions, countries, and performance metrics. The analysis provided useful insights into attack, serve, block, dig, and receive performance, along with relationships between different skills. Overall, the project helped identify important performance patterns across players, positions, and countries.
